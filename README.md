@@ -1,6 +1,6 @@
 # Hi there, I'm Madan Khatri! 👋
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/madankhatri)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/madankhatri123h))
 ## 🚀 About Me
 I'm a **Machine Learning Engineer** and **Data Scientist** passionate about building end-to-end ML solutions that solve real-world problems. With expertise in **Deep Learning**, **Computer Vision**, **NLP**, **Generative AI**, and **Agentic AI**, I transform data into actionable insights and intelligent applications.
 - 🔭 Currently working on: **Object Detection Pipelines**, **NLP-based Chrome Extensions**, and **Agentic AI Systems**
