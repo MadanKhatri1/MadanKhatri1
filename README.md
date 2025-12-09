@@ -1,5 +1,5 @@
 # Hi there, I'm Madan Khatri! 👋
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)]([https://www.kaggle.com/madankhatri](https://www.kaggle.com/madankhatri123h))
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/madankhatri123h)
 ## 🚀 About Me
 I'm a **Machine Learning Engineer** and **Data Scientist** passionate about building end-to-end ML solutions that solve real-world problems. With expertise in **Deep Learning**, **Computer Vision**, **NLP**, **Generative AI**, and **Agentic AI**, I transform data into actionable insights and intelligent applications.
 - 🔭 Currently working on: **Object Detection Pipelines**, **NLP-based Chrome Extensions**, and **Agentic AI Systems**
@@ -65,13 +65,7 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about buil
 - Developed complete web application using Flask framework
 - Implemented backend logic and frontend integration
 - **Tech Stack**: Flask, Python, HTML, CSS, JavaScript
-## 📊 GitHub Statistics
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadanKhatri1&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadanKhatri1&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadanKhatri1&theme=radical&hide_border=true)
-</div>
+
 
 ## 💼 What I'm Looking For
 I'm actively seeking opportunities in:
