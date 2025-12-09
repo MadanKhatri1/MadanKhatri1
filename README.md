@@ -1,5 +1,6 @@
 # Hi there, I'm Madan Khatri! 👋
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/madankhatri123h)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/madankhatri)
 ## 🚀 About Me
 I'm a **Machine Learning Engineer** and **Data Scientist** passionate about building end-to-end ML solutions that solve real-world problems. With expertise in **Deep Learning**, **Computer Vision**, **NLP**, **Generative AI**, and **Agentic AI**, I transform data into actionable insights and intelligent applications.
 - 🔭 Currently working on: **Object Detection Pipelines**, **NLP-based Chrome Extensions**, and **Agentic AI Systems**
@@ -19,10 +20,12 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about buil
 ### Generative AI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ### Computer Vision
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-0099FF?style=for-the-badge&logo=opencv&logoColor=white)
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -34,6 +37,8 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about buil
 ### MLOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ## 🏆 Featured Projects
 ### 🎯 [YouTube Comment Analyzer](https://github.com/MadanKhatri1/YouTube-Comment-Analyzer)
 > **NLP-powered Chrome Extension for toxic comment detection**
@@ -66,8 +71,8 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about buil
 - Implemented backend logic and frontend integration
 - **Tech Stack**: Flask, Python, HTML, CSS, JavaScript
 
-
 ## 💼 What I'm Looking For
+
 I'm actively seeking opportunities in:
 
 - Machine Learning Engineering
@@ -78,9 +83,10 @@ I'm actively seeking opportunities in:
 - MLOps & Model Deployment
 - 
 ## 🤝 Let's Connect!
-
 I'm always interested in collaborating on exciting ML projects or discussing innovative ideas. Feel free to reach out!
 ---
 <div align="center">
   
 **"Building intelligent systems, one model at a time"**
+![Profile Views](https://komarev.com/ghpvc/?username=MadanKhatri1&color=brightgreen&style=for-the-badge)
+</div>
