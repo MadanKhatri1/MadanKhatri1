@@ -6,7 +6,7 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about buil
 - 🔭 Currently working on: **Object Detection Pipelines**, **NLP-based Chrome Extensions**, and **Agentic AI Systems**
 - 🌱 Learning: **GenAI**, **Agentic AI Frameworks**, **MLOps**, and **LLM Fine-tuning**
 - 💡 Interests: **Deep Learning**, **Generative AI**, **AI Agents**, **Model Deployment**
-- 📫 Reach me: **madankhatri@example.com**
+- 📫 Reach me: **madankh00123@gmail.com**
 ## 🛠️ Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
