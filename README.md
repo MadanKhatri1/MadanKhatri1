@@ -88,5 +88,4 @@ I'm always interested in collaborating on exciting ML projects or discussing inn
 <div align="center">
   
 **"Building intelligent systems, one model at a time"**
-![Profile Views](https://komarev.com/ghpvc/?username=MadanKhatri1&color=brightgreen&style=for-the-badge)
 </div>
