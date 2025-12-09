@@ -72,19 +72,21 @@ I'm a **Machine Learning Engineer** and **Data Scientist** passionate about buil
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadanKhatri1&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadanKhatri1&theme=radical&hide_border=true)
 </div>
+
 ## 💼 What I'm Looking For
 I'm actively seeking opportunities in:
+
 - Machine Learning Engineering
 - Generative AI & LLM Development
 - Agentic AI Systems
 - Computer Vision Development
 - Data Science & Analytics
 - MLOps & Model Deployment
+- 
 ## 🤝 Let's Connect!
+
 I'm always interested in collaborating on exciting ML projects or discussing innovative ideas. Feel free to reach out!
 ---
 <div align="center">
   
 **"Building intelligent systems, one model at a time"**
-![Profile Views](https://komarev.com/ghpvc/?username=MadanKhatri1&color=brightgreen&style=for-the-badge)
-</div>
