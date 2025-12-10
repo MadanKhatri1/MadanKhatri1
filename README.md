@@ -81,7 +81,7 @@ I'm actively seeking opportunities in:
 - Computer Vision Development
 - Data Science & Analytics
 - MLOps & Model Deployment
-- 
+  
 ## 🤝 Let's Connect!
 I'm always interested in collaborating on exciting ML projects or discussing innovative ideas. Feel free to reach out!
 ---
