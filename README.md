@@ -13,8 +13,6 @@
 
 ---
 
-### ![About Me](https://img.shields.io/badge/About_Me-User_Profile-2ea44f?style=for-the-badge&logo=github)
-
 I am a passionate **Machine Learning Engineer** and **Data Scientist** dedicated to building end-to-end ML solutions that solve real-world problems. With expertise in **Deep Learning**, **Computer Vision**, **NLP**, and **Agentic AI**, I transform complex data into actionable insights and intelligent applications.
 
 - 🌱 **Learning:** GenAI, Agentic AI Frameworks, MLOps, and LLM Fine-tuning
