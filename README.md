@@ -13,18 +13,16 @@
 
 ---
 
-## 🚀 About Me
+### ![About Me](https://img.shields.io/badge/About_Me-User_Profile-2ea44f?style=for-the-badge&logo=github)
 
 I am a passionate **Machine Learning Engineer** and **Data Scientist** dedicated to building end-to-end ML solutions that solve real-world problems. With expertise in **Deep Learning**, **Computer Vision**, **NLP**, and **Agentic AI**, I transform complex data into actionable insights and intelligent applications.
 
-- 🔭 **Currently working on:** Object Detection Pipelines, NLP-based Chrome Extensions, and Agentic AI Systems
-- 🌱 **Learning:** GenAI, Agentic AI Frameworks, MLOps, and LLM Fine-tuning
 - 💡 **Interests:** Deep Learning, Generative AI, AI Agents, Model Deployment
 - 📫 **Reach me:** [madankh00123@gmail.com](mailto:madankh00123@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+### ![Tech Stack](https://img.shields.io/badge/Tech_Stack-My_Arsenal-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 
 <div align="center">
 
@@ -42,41 +40,41 @@ I am a passionate **Machine Learning Engineer** and **Data Scientist** dedicated
 
 ---
 
-## 🏆 Featured Projects
+### ![Featured Projects](https://img.shields.io/badge/Featured_Projects-Portfolio-FF7F50?style=for-the-badge&logo=files)
 
-### 🎯 [YouTube Comment Analyzer](https://github.com/MadanKhatri1/YouTube-Comment-Analyzer)
-> **NLP-powered Chrome Extension for toxic comment detection**
+#### 🎯 [YouTube Comment Analyzer](https://github.com/MadanKhatri1/YouTube-Comment-Analyzer)
+> **YouTube comment analysis using lightgbm**
 - **Overview:** Built an end-to-end Chrome extension using NLP models to analyze and filter YouTube comments.
 - **Key Tech:** TF-IDF vectorization, ML classification (Scikit-learn), Flask, JavaScript.
 
-### 🔍 [YOLO Object Detection Pipeline](https://github.com/MadanKhatri1/Noodle-Recognition-using-yolo)
+#### 🔍 [YOLO Object Detection Pipeline](https://github.com/MadanKhatri1/Noodle-Recognition-using-yolo)
 > **Custom object detection pipeline with YOLOv8**
 - **Overview:** Developed a complete detection system for custom datasets, achieving high accuracy on specialized tasks.
 - **Key Tech:** PyTorch, Ultralytics YOLOv8, OpenCV.
 
-### 🌾 [Vision Transformer for Biomass Estimation](https://github.com/MadanKhatri1/hackethone)
+#### 🌾 [Vision Transformer for Biomass Estimation](https://github.com/MadanKhatri1/hackethone)
 > **ViT fine-tuning for agricultural applications**
 - **Overview:** Fine-tuned Vision Transformer (ViT) models to estimate rice biomass from imagery with optimized preprocessing (RMSE < 0.5).
 - **Key Tech:** PyTorch, Transformers (Hugging Face), Pandas.
 
-### 📊 [Kaggle Time Series Prediction](https://github.com/MadanKhatri1/Kaggle_podcast_time_predict)
+#### 📊 [Kaggle Time Series Prediction](https://github.com/MadanKhatri1/Kaggle_podcast_time_predict)
 > **Forecasting podcast engagement**
 - **Overview:** Implemented time series models to predict listening patterns using extensive EDA and feature engineering.
 - **Key Tech:** Scikit-learn, Pandas, Jupyter.
 
-### 🌿 [Plant Disease Detection](https://github.com/MadanKhatri1/plant_disease)
+#### 🌿 [Plant Disease Detection](https://github.com/MadanKhatri1/plant_disease)
 > **CNN-based plant disease classification**
 - **Overview:** Deep learning model for identifying plant diseases, wrapped in a user-friendly interface for agricultural professionals.
 - **Key Tech:** TensorFlow, Keras, Flask.
 
-### 🍜 [Flask Web Application](https://github.com/MadanKhatri1/Flask_app)
+#### 🍜 [Flask Web Application](https://github.com/MadanKhatri1/Flask_app)
 > **Full-stack web development**
 - **Overview:** A complete web application implementing robust backend logic and frontend integration.
 - **Key Tech:** Flask, HTML, CSS, JavaScript.
 
 ---
 
-## 💼 What I'm Looking For
+### ![Looking For](https://img.shields.io/badge/Job_Interests-Open_To_Work-007ACC?style=for-the-badge&logo=linkedin)
 
 I'm actively seeking opportunities in:
 - 🤖 **Machine Learning Engineering**
@@ -88,7 +86,7 @@ I'm actively seeking opportunities in:
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect!</h3>
+  <h3>![Connect](https://img.shields.io/badge/Connect-Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</h3>
   <p>I'm always interested in collaborating on exciting ML projects or discussing innovative ideas.</p>
   
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madankh00123@gmail.com)
