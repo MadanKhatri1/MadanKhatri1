@@ -86,6 +86,5 @@ I'm actively seeking opportunities in:
 ---
 
 <div align="center">
-  <h3>![Connect](https://img.shields.io/badge/Connect-Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</h3>
   <p>I'm always interested in collaborating on exciting ML projects or discussing innovative ideas.</p>
 </div>
