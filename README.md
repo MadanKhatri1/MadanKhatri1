@@ -43,7 +43,7 @@ I am a passionate **Machine Learning Engineer** and **Data Scientist** dedicated
 
 #### 🎯 [YouTube Comment Analyzer](https://github.com/MadanKhatri1/YouTube-Comment-Analyzer)
 > **Youtube comment analysis with lightgbm**
-- **Overview:** Built an end-to-end Chrome extension using NLP models to analyze and filter YouTube comments.
+- **Overview:** Built an end-to-end Chrome extension using Lightgbm to analyze and filter YouTube comments.
 - **Key Tech:** TF-IDF vectorization, ML classification (Scikit-learn), Flask, JavaScript.
 
 #### 🔍 [YOLO Object Detection Pipeline](https://github.com/MadanKhatri1/Noodle-Recognition-using-yolo)
